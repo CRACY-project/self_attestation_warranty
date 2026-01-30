@@ -78,11 +78,6 @@ This project implements a web-based questionnaire that allows you to assess your
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
 See the [open issues](https://github.com/CRACY-project/self_attestation_warranty/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -105,13 +100,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
-
-<a href="https://github.com/CRACY-project/self_attestation_warranty/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CRACY-project/self_attestation_warranty" alt="contrib.rocks image" />
-</a>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -125,7 +113,7 @@ Distributed under the MIT License project_license. See `LICENSE.txt` for more in
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+The CRACY project info@cra-cy.eu
 
 Project Link: [https://github.com/CRACY-project/self_attestation_warranty](https://github.com/CRACY-project/self_attestation_warranty)
 
@@ -136,9 +124,7 @@ Project Link: [https://github.com/CRACY-project/self_attestation_warranty](https
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Initial contribution by ExcID](https://excid.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,3 +143,6 @@ Project Link: [https://github.com/CRACY-project/self_attestation_warranty](https
 [license-shield]: https://img.shields.io/github/license/CRACY-project/self_attestation_warranty.svg?style=for-the-badge
 [license-url]: https://github.com/CRACY-project/self_attestation_warranty/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/company/cracy/
+[product-screenshot]: images/screenshot.png
+
