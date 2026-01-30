@@ -2,7 +2,7 @@
       "sections": [
         {
           "title": "Technical documentation, general Description",
-          "description": "<p>The Technical documentation of a product with digital elements shall contain a general description of the product with digital elements, including:</p><ul><li>its intended purpose;</li><li>versions of software affecting compliance with essential cybersecurity requirements;</li><li>where the product with digital elements is a hardware product, photographs or illustrations showing external features, marking and internal layout;</li><li>user information and instructions</li></ul>",
+          "description": "The Technical documentation of a product with digital elements shall contain a general description of the product with digital elements, including:<ul><li>its intended purpose;</li><li>versions of software affecting compliance with essential cybersecurity requirements;</li><li>where the product with digital elements is a hardware product, photographs or illustrations showing external features, marking and internal layout;</li><li>user information and instructions</li></ul>",
           "questions": [
             {
               "title": "Intended Purpose & Intended Users",
@@ -163,7 +163,7 @@
         },
         {
           "title": "Technical documentation, description of the Design, Development and Production",
-          "description": "<p>The Technical documentation of a product with digital elements shall contain a description of the design, development and production of the product with digital elements and vulnerability handling processes, including:</p><ul><li>necessary information on the design and development of the product with digital elements, including, where applicable, drawings and schemes and a description of the system architecture explaining how software components build on or feed into each other and integrate into the overall processing;</li><li>necessary information and specifications of the vulnerability handling processes put in place by the manufacturer, including the software bill of materials, the coordinated vulnerability disclosure policy, evidence of the provision of a contact address for the reporting of the vulnerabilities and a description of the technical solutions chosen for the secure distribution of updates;</li></ul>",
+          "description": "The Technical documentation of a product with digital elements shall contain a description of the design, development and production of the product with digital elements and vulnerability handling processes, including:<ul><li>necessary information on the design and development of the product with digital elements, including, where applicable, drawings and schemes and a description of the system architecture explaining how software components build on or feed into each other and integrate into the overall processing;</li><li>necessary information and specifications of the vulnerability handling processes put in place by the manufacturer, including the software bill of materials, the coordinated vulnerability disclosure policy, evidence of the provision of a contact address for the reporting of the vulnerabilities and a description of the technical solutions chosen for the secure distribution of updates;</li></ul>",
           "questions": [
             {
               "title": "Design, Development & Production for Security",
@@ -395,7 +395,7 @@
         },
         {
           "title": "Technical documentation, support period",
-          "description": "<p>The technical documentation shall include the information that the manufacturer used to determine the support period for the product with digital elements. This information must reflect how long the product is expected to be in use and the factors the manufacturer considered when deciding an appropriate support period. This section should describe:</p><ul><li>the expected time the product will remain in normal use;</li><li>the intended purpose and reasonably foreseeable use of the product</li></ul>",
+          "description": "The technical documentation shall include the information that the manufacturer used to determine the support period for the product with digital elements. This information must reflect how long the product is expected to be in use and the factors the manufacturer considered when deciding an appropriate support period. This section should describe:<ul><li>the expected time the product will remain in normal use;</li><li>the intended purpose and reasonably foreseeable use of the product</li></ul>",
           "questions": [
             {
               "title": "Support Period Determination",
@@ -481,7 +481,7 @@
         },
         {
           "title": "Technical documentation, harmonised standards",
-          "description": "<p>The technical documentation shall include a list of the harmonised standards, common specifications, or European cybersecurity certification schemes that you applied to meet the essential cybersecurity requirements. This section should describe:</p><ul><li>which harmonised standards were used (full or partial application);</li><li>which parts of a standard or specification were applied, if only certain sections were used;</li><li>which common specifications or European cybersecurity certification schemes were followed;</li><li>how these standards or solutions support compliance with Parts I and II of Annex I.</li></ul><p>If any standard or specification was only applied partially, the documentation must clearly identify which parts were used and how they contribute to meeting the essential cybersecurity requirements.</p>",
+          "description": "The technical documentation shall include a list of the harmonised standards, common specifications, or European cybersecurity certification schemes that you applied to meet the essential cybersecurity requirements. This section should describe:<ul><li>which harmonised standards were used (full or partial application);</li><li>which parts of a standard or specification were applied, if only certain sections were used;</li><li>which common specifications or European cybersecurity certification schemes were followed;</li><li>how these standards or solutions support compliance with Parts I and II of Annex I.</li></ul>If any standard or specification was only applied partially, the documentation must clearly identify which parts were used and how they contribute to meeting the essential cybersecurity requirements.",
           "questions": [
             {
               "title": "Standards or Specifications Demonstrating Conformity",
@@ -567,7 +567,7 @@
         },
         {
           "title": "Technical documentation, reports of the tests",
-          "description": "<p>The technical documentation shall include the reports of the tests carried out to verify the conformity of the product with digital elements and the vulnerability handling processes with the essential cybersecurity requirements. These reports must show that the product and its associated processes meet the requirements set out in Parts I and II of Annex I. This section should describe:</p><ul><li>the tests performed on the product along with the methods, tools, and procedures used to verify conformity;</li><li>the tests performed on the vulnerability handling processes;</li><li>the evidence above should demonstrate that the essential cybersecurity requirements have been met from Annex I Parts I and II;</li></ul>",
+          "description": "The technical documentation shall include the reports of the tests carried out to verify the conformity of the product with digital elements and the vulnerability handling processes with the essential cybersecurity requirements. These reports must show that the product and its associated processes meet the requirements set out in Parts I and II of Annex I. This section should describe:<ul><li>the tests performed on the product along with the methods, tools, and procedures used to verify conformity;</li><li>the tests performed on the vulnerability handling processes;</li><li>the evidence above should demonstrate that the essential cybersecurity requirements have been met from Annex I Parts I and II;</li></ul>",
           "questions": [
             {
               "title": "Tests Performed for Conformity",
@@ -673,7 +673,7 @@
         },
         {
           "title": "Technical documentation, EU Declaration of Conformity",
-          "description": "<p>The technical documentation shall include a copy of the EU Declaration of Conformity for the product with digital elements. This document confirms that the product complies with the relevant provisions of the regulation and any other applicable Union legislation. This section should include:</p><ul><li>the complete and signed EU Declaration of Conformity;</li></ul><p>The declaration must be the final version provided to users or authorities and must match the product and version documented elsewhere in the technical file.</p>",
+          "description": "The technical documentation shall include a copy of the EU Declaration of Conformity for the product with digital elements. This document confirms that the product complies with the relevant provisions of the regulation and any other applicable Union legislation. This section should include:<ul><li>the complete and signed EU Declaration of Conformity;</li></ul>The declaration must be the final version provided to users or authorities and must match the product and version documented elsewhere in the technical file.",
           "questions": [
             {
               "title": "Completed & Signed EU Declaration of Conformity",
