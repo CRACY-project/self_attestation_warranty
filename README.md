@@ -141,7 +141,7 @@ Project Link: [https://github.com/CRACY-project/self_attestation_warranty](https
 [issues-shield]: https://img.shields.io/github/issues/CRACY-project/self_attestation_warranty.svg?style=for-the-badge
 [issues-url]: https://github.com/CRACY-project/self_attestation_warranty/issues
 [license-shield]: https://img.shields.io/github/license/CRACY-project/self_attestation_warranty.svg?style=for-the-badge
-[license-url]: https://github.com/CRACY-project/self_attestation_warranty/blob/main/LICENCSE
+[license-url]: https://github.com/CRACY-project/self_attestation_warranty/blob/main/LICENCSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/cracy/
 [product-screenshot]: images/screenshot.png
